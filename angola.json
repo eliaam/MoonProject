@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Luanda"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.0,-9.5],[13.5,-9.5],[13.5,-8.5],[13.0,-8.5],[13.0,-9.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Bengo"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.5,-9.5],[14.5,-9.5],[14.5,-8.0],[13.5,-8.0],[13.5,-9.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Icolo e Bengo"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.2,-9.2],[13.8,-9.2],[13.8,-8.7],[13.2,-8.7],[13.2,-9.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Benguela"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.0,-13.0],[13.5,-13.0],[13.5,-11.0],[12.0,-11.0],[12.0,-13.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Huambo"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.0,-13.5],[15.0,-13.5],[15.0,-12.0],[13.0,-12.0],[13.0,-13.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Huila"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.0,-16.0],[16.0,-16.0],[16.0,-13.5],[13.0,-13.5],[13.0,-16.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Namibe"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[11.5,-17.0],[13.0,-17.0],[13.0,-14.5],[11.5,-14.5],[11.5,-17.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cunene"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[14.0,-17.5],[17.5,-17.5],[17.5,-15.0],[14.0,-15.0],[14.0,-17.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cuando"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[20.0,-17.5],[23.0,-17.5],[23.0,-14.0],[20.0,-14.0],[20.0,-17.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cubango"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[16.5,-17.0],[20.0,-17.0],[20.0,-13.5],[16.5,-13.5],[16.5,-17.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Moxico"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18.0,-13.5],[23.0,-13.5],[23.0,-10.0],[18.0,-10.0],[18.0,-13.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Moxico Leste"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[21.0,-13.5],[24.0,-13.5],[24.0,-10.0],[21.0,-10.0],[21.0,-13.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Lunda Norte"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18.5,-10.0],[21.5,-10.0],[21.5,-7.0],[18.5,-7.0],[18.5,-10.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Lunda Sul"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18.0,-13.0],[21.0,-13.0],[21.0,-10.0],[18.0,-10.0],[18.0,-13.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Malanje"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[15.5,-11.0],[18.5,-11.0],[18.5,-8.0],[15.5,-8.0],[15.5,-11.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cuanza Norte"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[14.5,-10.0],[16.5,-10.0],[16.5,-8.5],[14.5,-8.5],[14.5,-10.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cuanza Sul"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[13.5,-13.0],[14.5,-13.0],[14.5,-10.5],[13.5,-10.5],[13.5,-13.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Uige"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[15.0,-8.5],[17.5,-8.5],[17.5,-6.5],[15.0,-6.5],[15.0,-8.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Zaire"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.0,-7.5],[14.0,-7.5],[14.0,-5.5],[12.0,-5.5],[12.0,-7.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"provincia": "Cabinda"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[12.0,-5.5],[13.0,-5.5],[13.0,-4.0],[12.0,-4.0],[12.0,-5.5]]]
+      }
+    }
+  ]
+}
+``
